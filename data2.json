@@ -1,0 +1,76 @@
+[
+    {
+        "1": "Dhoni scored 2 centuries and 3 half-centuries in the last 5 innings. \n What is his mean score for the 5 matches?",
+        "2": "Five Indian batsmen (in batting order)scored 20, 40, 30, 85, 55 in a match against Australia.\n If the Australian team's median score was 45 (for 5 players), which Indian batsman should have scored higher to equal Australia?",
+        "3": "The Indian Team's score in last 6 matches against Australia (ODI and T20) was \n 230/5, 338/9, 302/5, 161/7, 195/4, 174/7. \n Find the median number of wickets fallen for these 6 matches.?",
+        "4": "Mithali Raj has a mean score of 60 runs in 9 innings. \n Find out how many runs are to be scored by her in the 10th innings to raise the mean score to 61.",
+        "5": "Given the number of wickets taken by Poonam Yadav in 7 matches. {5, 7, 4, 4, 3, 6, 6}. \n What is her mean and median record?",
+        "6": "Tendulkar scored the following runs in 6 overs.4, 5, 6, x, 8,9. \n If his median score is 7, find the value of x ?",
+        "7": "The ages of 3 top batsmen is 30, 35, 25 and 2 bowlers is 25, 35. \n Find their combined average age.",
+        "8": "Kumble gave away 290 runs every 10 wickets while Muralitharan conceded 220 runs for every 10 wickets. \n Which of these two bowlers would be ranked better?",
+        "9": "Before getting out, opener Smriti Mandhana scored the following runs in 6 overs. 4,4,5,6,6,7. \n How much should she have scored in the 3rd over to increase the median to 6?",
+        "10": "The ICC Cricket Rulebook has ten chapters. The number of pages in each chapter is 25, 11, 9, 18, 21, 24, 16, 13, 30, 12. \n What is the median?"
+    },
+    {
+        "1": [
+            "80",
+            "65",
+            "70",
+            "85"
+        ],
+        "2": [
+            "1st batsman",
+            "3rd batsman",
+            "5th batsman",
+            "2nd batsman"
+        ],
+        "3": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "4": [
+            "75",
+            "62",
+            "70",
+            "65"
+        ],
+        "5": [
+            "Mean 5, Median 6",
+            "Mean 6, Median 5",
+            "Mean 5, Median 5",
+            "Mean 6, Median 6"
+        ],
+        "6": [
+            "7",
+            "8",
+            "0",
+            "1"
+        ],
+        "7": [
+            "28",
+            "35",
+            "30",
+            "32"
+        ],
+        "8": [
+            "Kumble",
+            "Muralitharan",
+            "Both are equal",
+            "None of the above"
+        ],
+        "9": [
+            "4",
+            "6",
+            "5",
+            "3"
+        ],
+        "10": [
+            "17",
+            "16",
+            "20",
+            "21"
+        ]
+    }
+]

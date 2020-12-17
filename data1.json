@@ -1,0 +1,76 @@
+[
+    {
+        "1": "Indian skipper Kohli scored the following in 5 innings 50, 70, 40, 30, 60. \n What is his mean score?",
+        "2": "Five bowlers took the following number of wickets in a match. 2, 5, 3, 4, 3 \n Find the median wicket taken",
+        "3": "In a T20 match, South Africa batted first and scored 149 in 20 overs .\n What should be India's minimum average run rate per over to win the match?",
+        "4": "The runs scored in a cricket match by 5 players is as follows: \n 6,15,50,80,10.\n Find the median score ",
+        "5": "The ages of 5 top Mumbai Indians team players is 30, 30, 35, 30, 25 Calculate the average age of these players",
+        "6": "The heights of some of the Indian cricket team players are as follows: \n Kohli: 175 cm \n Rohit Sharma: 170 cm \n R. Jadeja: 173 cm \n Rahane 168 cm \n KL Rahul: 180 cm \n Find the median heights of these players",
+        "7": "The Jersey numbers for Tendulkar, Dhoni and M. Siraj are 10, 7 and 13 respectively. \n The winner is whose jersey is the mean of the three. \n Find the winner. ?",
+        "8": "New Zealand Swing Bowler Trent Boult picked 20 wickets in 10 matches while Indian medium pacer J.Bumrah picked 24 wickets in 12 matches. \n Who has a better average record?",
+        "9": "Due to the pandemic, Indian Women's cricket team played the following number of matches from June to Oct 2020 \n Jun: 2, July: 2, Aug: 0, Sep:2, Oct:4. \n In 2019 their median number of matches for the same period was 4.\n Compare the medians of the 2 years",
+        "10": "Rohit Sharma scored 980 runs in 20 test innings while Mayank Agarwal scored 570 in 10 test innings. \n Whose average is better?"
+    },
+    {
+        "1": [
+            "45",
+            "55",
+            "50",
+            "60"
+        ],
+        "2": [
+            "5",
+            "3",
+            "4",
+            "2"
+        ],
+        "3": [
+            "4.25",
+            "3",
+            "7.5",
+            "6.5"
+        ],
+        "4": [
+            "60",
+            "50",
+            "15",
+            "10"
+        ],
+        "5": [
+            "32",
+            "35",
+            "30",
+            "34"
+        ],
+        "6": [
+            "170",
+            "173",
+            "180",
+            "168"
+        ],
+        "7": [
+            "M. Siraj",
+            "Dhoni",
+            "Tendulkar",
+            "None of the above"
+        ],
+        "8": [
+            "Bumrah",
+            "Both are equal",
+            "Boult",
+            "None of the above"
+        ],
+        "9": [
+            "2020>2019",
+            "2019>2020",
+            "2019=2020",
+            "None of the above"
+        ],
+        "10": [
+            "Mayank Agarwal",
+            "Rohit Sharma",
+            "Both",
+            "None of the above"
+        ]
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "1": "The average of Tendulkar's scores for 4 matches is 72. If three of the scores are  58, 75, and 80, what is the fourth score?",
+        "2": "In the last 5 T20 matches the Indian cricket team scored the following: 120, 180, 150, 120, 180.  If there are total 6 matches and the required average to qualify is 150, then how much must the team score in the final match?",
+        "3": "In a cricket match at a stadium, the average cost of 5 chocolates and 4 samosas is Rs.36. \n The average cost of 7 chocolates and 8 samosas is Rs.48. \n What is the total cost of 12 chocolates and 12 samosas?",
+        "4": "The average consumption of protein powder by 15 cricket players is 33 kgs in three months. \n Find the total consumption of protein powder for three months.",
+        "5": "Pat Cummins took 2 wickets in the 1st match and added 1 wicket in every subsequent match. \n If he played 7 matches, what was his median wicket taken?",
+        "6": "During IPL, Delhi Capitals team played every day for the whole of November. \n If the total runs scored by the team in November was 3900, find their average score per match.",
+        "7": "A cricket fan played Dream11 IPL 4 games and had an average score of 12000 points per game. \n The average score of the first 3 games was 11000 points per game, \n how many points did he score in the 4th game?",
+        "8": "Median gives a better idea of the overall team performance. \n A cricket analyst analysed the performance of the SRH team in IPL.This is his gathered data on runs scored by 10 players, \n 17, 15, 18, 16, 54, 23, 23, 56, 45, 30. \n Find the Median.",
+        "9": "The cost per ticket for 5 cricket matches in Australia were $22, $22, $30, $35, $36. \n What is the mean and median ticket price?",
+        "10": "The front row in a cricket stadium has 23 seats. \n If a fan wanted to sit in the seat that occupied the median position, in which seat would he/she have to sit?"
+    },
+    {
+        "1": [
+            "60",
+            "80",
+            "75",
+            "65"
+        ],
+        "2": [
+            "180",
+            "150",
+            "120",
+            "130"
+        ],
+        "3": [
+            "944",
+            "1000",
+            "1044",
+            "800"
+        ],
+        "4": [
+            "395",
+            "400",
+            "495",
+            "350"
+        ],
+        "5": [
+            "4",
+            "3",
+            "5",
+            "6"
+        ],
+        "6": [
+            "150",
+            "130",
+            "180",
+            "160"
+        ],
+        "7": [
+            "11000",
+            "12000",
+            "15000",
+            "13000"
+        ],
+        "8": [
+            "45",
+            "23",
+            "30",
+            "25"
+        ],
+        "9": [
+            "Mean: 30, Median: 30",
+            "Mean:29, Median:30 ",
+            "Mean:30, Median:29",
+            "None of the above"
+        ],
+        "10": [
+            "12",
+            "13",
+            "11",
+            "14"
+        ]
+    }
+]
